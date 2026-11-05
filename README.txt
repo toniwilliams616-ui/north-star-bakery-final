@@ -1,0 +1,1 @@
+North Star Bakery class website. Open index.html in Chrome to view. Keep all files together in the same folder. The contact page plays bakery.m4a. The contact form is a demonstration and does not submit data. This is a reconstructed working website package, not a copy of the original GitHub repository.
